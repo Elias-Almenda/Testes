@@ -1,1 +1,1 @@
-# Testes de alhuns tipos de codigos juntos com alguns estudos 
+# Testes de alguns tipos de codigos juntos com alguns estudos 
